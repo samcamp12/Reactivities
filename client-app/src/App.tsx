@@ -1,10 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Header } from 'semantic-ui-react';
 import List from 'semantic-ui-react/dist/commonjs/elements/List';
 import axios from 'axios';
-import Button from 'semantic-ui-react/dist/commonjs/elements/Button';
 
 function App() {
 
